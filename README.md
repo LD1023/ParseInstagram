@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/gallery/BFBV0Fb)
+<img src='https://imgur.com/78xks1q.gif'/>
