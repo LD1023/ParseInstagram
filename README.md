@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/78xks1q.gif'/>
+![](https://github.com/LD1023/ParseInstagram/blob/main/Untitled.gif)
