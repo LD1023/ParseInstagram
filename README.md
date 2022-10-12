@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/LD1023/ParseInstagram/blob/main/ezgif.com-gif-maker.mov)
+![](https://imgur.com/gallery/BFBV0Fb)
